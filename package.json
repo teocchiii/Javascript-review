@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/index.js"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "uuid": "^10.0.0"
+  }
 }
